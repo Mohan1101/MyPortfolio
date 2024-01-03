@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "my-profolio-4161",
+    "production": "my-profolio-4161"
+  },
+  "targets": {},
+  "etags": {}
+}
